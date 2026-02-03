@@ -1,5 +1,6 @@
 ## 👩‍💻 About Me
-Hi, I’m Aarya Thengne🌼
+Hi, I’m Aarya Thengne 🌼
+
 I’m a B.Tech Information Technology student specializing in Data Analytics, with a strong focus on Python development, data analysis, and machine learning. I enjoy building practical, real-world solutions—especially in areas like security, anomaly detection, and intelligent systems.
 
 I have hands-on experience developing REST APIs using Flask, working with structured and unstructured data using Pandas, NumPy, SQL, and visualizing insights through Power BI and Tableau. My projects include , deepfake detection using CNNs, sentiment analysis chatbot and email phishing detection powered by machine learning and AI.
