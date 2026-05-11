@@ -74,15 +74,21 @@ I’m a fast learner, detail-oriented, and continuously focused on improving my 
 📌 Featured Projects
 
 🔹 Deepfake Detection System (DFDS)
+
 Developed an AI-powered deepfake image detection system using Xception CNN architecture to classify images as REAL or FAKE with confidence scores. Built a responsive web interface and browser extension for real-time detection.
+
 Python | TensorFlow | OpenCV | FastAPI | HTML | CSS | JavaScript | CNN
 
 🔹 Email Phishing Detection Extension
+
 Machine learning-based system to detect phishing emails and suspicious content in real time.
+
 Python | NLP | Machine Learning | Flask
 
 🔹 Gems & Co Full-Stack Web Application
+
 Developed a responsive full-stack web application with backend integration, database connectivity, and dynamic user interface components.
+
 HTML | CSS | JavaScript | Flask | MySQL
 
 ---
