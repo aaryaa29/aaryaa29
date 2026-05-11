@@ -18,6 +18,7 @@ I’m a fast learner, detail-oriented, and continuously focused on improving my 
 📈 Data Visualization using Power BI, Tableau, and Matplotlib
 
 🛠️ Tech Stack
+
 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
