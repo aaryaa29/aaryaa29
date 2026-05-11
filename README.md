@@ -1,4 +1,4 @@
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi, I’m Aarya Thengne 🌼
 
@@ -8,7 +8,9 @@ I have hands-on experience working with Python, SQL, Pandas, NumPy, and machine 
 
 I’m a fast learner, detail-oriented, and continuously focused on improving my technical and problem-solving skills by turning ideas into working applications.
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 💻 Languages
 
@@ -62,7 +64,7 @@ I’m a fast learner, detail-oriented, and continuously focused on improving my 
 
 ---
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 🔹 Deepfake Detection System (DFDS)
 
