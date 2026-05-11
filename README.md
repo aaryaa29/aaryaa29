@@ -6,16 +6,7 @@ I’m a B.Tech Information Technology student specializing in Data Analytics, pa
 
 I have hands-on experience working with Python, SQL, Pandas, NumPy, and machine learning frameworks to develop intelligent and security-focused systems. I’ve also worked on backend development using Flask, FastAPI, and REST APIs, along with data visualization using Power BI and Tableau.
 
-My key projects include a Deepfake Detection System using CNNs, an AI-based Email Phishing Detection System, and a full-stack web application for Gems & Co.
-
 I’m a fast learner, detail-oriented, and continuously focused on improving my technical and problem-solving skills by turning ideas into working applications.
-
-🧠 What I Do
-📊 Data Analysis using Python, Pandas, NumPy, and SQL
-🤖 Machine Learning & Deep Learning using scikit-learn, TensorFlow, and PyTorch
-🌐 Backend Development using Flask, FastAPI, and REST APIs
-🔐 Security-focused Projects (Deepfake Detection & Email Phishing Detection)
-📈 Data Visualization using Power BI, Tableau, and Matplotlib
 
 🛠️ Tech Stack
 
